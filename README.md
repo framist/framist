@@ -15,8 +15,6 @@ I'am framist. In FRAME I trust.
 
 [框架 2021 | Framist's Little House](https://framist.github.io/2021/08/29/框架2021/)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framist&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **framist/framist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
