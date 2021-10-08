@@ -7,7 +7,15 @@
 - 🔭 I’m currently working on the WORLD
 - 🌱 I’m currently learning EVERYTHING
 
+---
 
+我是框架主义者，我信仰框架
+
+I'am framist. In FRAME I trust.
+
+[框架 2021 | Framist's Little House](https://framist.github.io/2021/08/29/框架2021/)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framist&layout=compact)]()
 
