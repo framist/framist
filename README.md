@@ -9,11 +9,8 @@
 
 ---
 
-我是框架主义者，我信仰框架
 
-I'am framist. In FRAME I trust.
-
-[框架 2021 | Framist's Little House](https://framist.github.io/2021/08/29/框架2021/)
+I'am framist. In [FRAME](https://framist.github.io/2021/08/29/框架2021/) I trust.
 
 
 <!--
@@ -31,7 +28,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+<summary>statistics</summary>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=framist&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=framist&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=framist&theme=nord_bright&utcOffset=8)
+
+</details>
+
+
