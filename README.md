@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=framist&show_icons=true&theme=gruvbox" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=framist&theme=nord_bright&" />
 
 
 ### Hi there 👋
@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=framist&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=framist&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=framist&theme=nord_bright&utcOffset=8)
