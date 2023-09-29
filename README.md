@@ -10,7 +10,7 @@
 ---
 
 
-I'am framist. In [FRAME](https://framist.github.io/2021/08/29/框架2021/) I trust.
+I'am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
 
 
 <!--
