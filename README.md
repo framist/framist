@@ -3,10 +3,11 @@
 
 ### Hi there 👋
 
+A graduate students interested in artificial intelligence and cyber security.
 
 - 🔭 I’m currently working on the WORLD
 - 🌱 I’m currently learning EVERYTHING
-
+- 🔥 [Framecraft](https://craft.framist.top/) 
 ---
 
 
