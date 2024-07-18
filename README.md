@@ -11,7 +11,7 @@ A graduate students interested in artificial intelligence and cyber security.
 ---
 
 
-I'am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
+I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
 
 
 <!--
