@@ -3,16 +3,12 @@
 
 ### Hi there 👋
 
-A graduate students interested in artificial intelligence and cyber security.
+A graduate students interested in **Artificial Intelligence** and **Cyber Security**.
 
-- 🔭 I’m currently working on the WORLD
-- 🌱 I’m currently learning EVERYTHING
-- 🔥 [Framecraft](https://craft.framist.top/) 
+- 🔥 [Framecraft](https://craft.framist.top/)
+- ◾ I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
+
 ---
-
-
-I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
-
 
 <!--
 **framist/framist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
