@@ -8,7 +8,10 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - 🔥 [Framecraft](https://craft.framist.top/)
 - ◾ I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
 
-**Sparks**
+---
+
+<details>
+<summary>sparks</summary>
 
 🌟
 - 🏛️ [SAFC-bot](https://github.com/framist/SAFC-bot) - SAFC — 元平台、弱中心 — 不止是评价导师 | Student Anti-Fraud Center - Meta & Decentralization - not just reviewing supervisor
@@ -24,7 +27,9 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - [TZ-2](https://github.com/framist/TZ-2) 天舟二号存档-2021陕西省Ti杯工科联赛-实现只通过单六轴传感器进行空间运动测量
 - [notes-on-modern-communication-principles](https://github.com/framist/notes-on-modern-communication-principles) 现代通信原理的个人笔记 | Personal notes on modern communication principles 
 - [Software-Foundations-Note](https://github.com/framist/Software-Foundations-Note) 软件基础的个人笔记与部分习题解答 fork from Coq-zh/SF-zh
- 
+
+</details>
+
 
 ---
 
