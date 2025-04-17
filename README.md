@@ -22,11 +22,13 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 
 ✨
 - 📡 [2nd-EBDSC](https://github.com/framist/2nd-EBDSC) - 第二届“火眼金睛”电磁大数据非凡挑战赛（EBDSC）金奖 - 电磁利剑 101 战队方案 - Wide-Value-Embs TCN
-- ⌚ [AI-vs-CTC](https://github.com/framist/AI-vs-CTC) DeepSeek R1 大战 封闭类时曲线
 - 🌐 [NUEDC2022-E](https://github.com/framist/NUEDC2022-E) - 声源定位跟踪系统 一等奖作品 - 省级大学生电子设计竞赛
 - [TZ-2](https://github.com/framist/TZ-2) 天舟二号存档-2021陕西省Ti杯工科联赛-实现只通过单六轴传感器进行空间运动测量
 - [notes-on-modern-communication-principles](https://github.com/framist/notes-on-modern-communication-principles) 现代通信原理的个人笔记 | Personal notes on modern communication principles 
 - [Software-Foundations-Note](https://github.com/framist/Software-Foundations-Note) 软件基础的个人笔记与部分习题解答 fork from Coq-zh/SF-zh
+
+💡
+- ⌚ [AI-vs-CTC](https://github.com/framist/AI-vs-CTC) DeepSeek R1 大战 封闭类时曲线
 
 </details>
 
