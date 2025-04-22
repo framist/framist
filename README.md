@@ -28,7 +28,8 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - [Software-Foundations-Note](https://github.com/framist/Software-Foundations-Note) 软件基础的个人笔记与部分习题解答 fork from Coq-zh/SF-zh
 
 💡
-- ⌚ [AI-vs-CTC](https://github.com/framist/AI-vs-CTC) DeepSeek R1 大战 封闭类时曲线
+- 🚢 [Manila](https://github.com/framist/manila) 《马尼拉》桌游期望计算器 | Manila Board Game Expected Value Calculator
+- ⌚ [AI-vs-CTC](https://github.com/framist/AI-vs-CTC) DeepSeek R1 大战 封闭类时曲线 | LLM vs. CTC
 
 </details>
 
