@@ -7,6 +7,7 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - 🗓️ [Blog](https://framist.github.io/)
 - 🔥 [Framecraft](https://craft.framist.top/)
 - ◾ I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
+- 🏳️‍⚧️🏳️
 
 ---
 
@@ -19,6 +20,7 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 ⭐
 - 🥚 [egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
 - 🎛️ [STemWinForHAL](https://github.com/framist/STemWinForHAL) - 项目模板库 = STM32 + emWin + HAL库 + 正点原子风格
+- 🪢 [Wide-Value-Embs TCN](https://github.com/framist/2nd-EBDSC) - 第二届“火眼金睛”电磁大数据非凡挑战赛（EBDSC）金奖 - 电磁利剑 101 战队方案
 
 ✨
 - 📡 [2nd-EBDSC](https://github.com/framist/2nd-EBDSC) - 第二届“火眼金睛”电磁大数据非凡挑战赛（EBDSC）金奖 - 电磁利剑 101 战队方案 - Wide-Value-Embs TCN
