@@ -7,11 +7,11 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - 🗓️ [Blog](https://framist.github.io/)
 - 🔥 [Framecraft](https://craft.framist.top/)
 - ◾ I am framist. In [FRAME](https://framist.github.io/post/frame-2021.html) I trust.
-- 🏳️‍⚧️🏳️
+- ◻️ 🏳️‍⚧
 
 ---
 
-<details>
+<details open>
 <summary>sparks</summary>
 
 🌟
