@@ -19,18 +19,18 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 
 ⭐
 - 🥚 [egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
-- 🎛️ [STemWinForHAL](https://github.com/framist/STemWinForHAL) - 项目模板库 = STM32 + emWin + HAL库 + 正点原子风格
-- 🪢 [Wide-Value-Embs TCN](https://github.com/framist/2nd-EBDSC) - 第二届“火眼金睛”电磁大数据非凡挑战赛（EBDSC）金奖 - 电磁利剑 101 战队方案
+- 🎛️ [STemWinForHAL](https://github.com/framist/STemWinForHAL) - STM32 项目模板 = emWin + HAL库 + 正点原子风格
+- 🪢 [Wide-Value-Embs TCN](https://github.com/framist/2nd-EBDSC) - 适用 NN 嵌入归一化与 Embs 替代的基于宽值域嵌入及其掩码方法
+- 🚢 [Manila](https://github.com/framist/manila) - 《马尼拉》桌游期望计算器 | Manila Board Game Expected Value Calculator
 
 ✨
-- 📡 [2nd-EBDSC](https://github.com/framist/2nd-EBDSC) - 第二届“火眼金睛”电磁大数据非凡挑战赛（EBDSC）金奖 - 电磁利剑 101 战队方案 - Wide-Value-Embs TCN
-- 🌐 [NUEDC2022-E](https://github.com/framist/NUEDC2022-E) - 声源定位跟踪系统 一等奖作品 - 省级大学生电子设计竞赛
-- [TZ-2](https://github.com/framist/TZ-2) 天舟二号存档-2021陕西省Ti杯工科联赛-实现只通过单六轴传感器进行空间运动测量
+- 🌐 [NUEDC2022-E](https://github.com/framist/NUEDC2022-E) - 声源定位跟踪系统 - 电赛
+- [TZ-2](https://github.com/framist/TZ-2) 天舟二号 - 单六轴传感器进行空间运动测量 - 电赛
 - [notes-on-modern-communication-principles](https://github.com/framist/notes-on-modern-communication-principles) 现代通信原理的个人笔记 | Personal notes on modern communication principles 
 - [Software-Foundations-Note](https://github.com/framist/Software-Foundations-Note) 软件基础的个人笔记与部分习题解答 fork from Coq-zh/SF-zh
 
+
 💡
-- 🚢 [Manila](https://github.com/framist/manila) 《马尼拉》桌游期望计算器 | Manila Board Game Expected Value Calculator
 - ⌚ [AI-vs-CTC](https://github.com/framist/AI-vs-CTC) DeepSeek R1 大战 封闭类时曲线 | LLM vs. CTC
 
 </details>
