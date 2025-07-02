@@ -21,6 +21,7 @@ A graduate students interested in **Artificial Intelligence** and **Cyber Securi
 - 🎛️ [STemWinForHAL](https://github.com/framist/STemWinForHAL) - STM32 项目模板 = emWin + HAL库 + 正点原子风格
 - 🪢 [Wide-Value-Embs TCN](https://github.com/framist/2nd-EBDSC) - 适用 NN 嵌入归一化与 Embs 替代的基于宽值域嵌入及其掩码方法
 - 🚢 [Manila](https://github.com/framist/manila) - 《马尼拉》桌游期望计算器 | Manila Board Game Expected Value Calculator
+- 🧠 [SSVEP-Next](https://github.com/framist/ssvep-next) 现代化的 SSVEP 可视化 Web 快速实现 | Modern SSVEP Visualization Web Fast Implementation
 
 ✨
 - 🌐 [NUEDC2022-E](https://github.com/framist/NUEDC2022-E) - 声源定位跟踪系统 - 电赛
